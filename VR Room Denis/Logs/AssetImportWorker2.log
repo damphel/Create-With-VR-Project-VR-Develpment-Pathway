@@ -15,7 +15,7 @@ D:/Users/denis/Desktop/Cursos online/VR Development Pathway/Repo/Create-With-VR-
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-49814
+58347
 Successfully changed project path to: D:/Users/denis/Desktop/Cursos online/VR Development Pathway/Repo/Create-With-VR-Project-VR-Develpment-Pathway/VR Room Denis
 D:/Users/denis/Desktop/Cursos online/VR Development Pathway/Repo/Create-With-VR-Project-VR-Develpment-Pathway/VR Room Denis
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,8 +47,8 @@ D:/Users/denis/Desktop/Cursos online/VR Development Pathway/Repo/Create-With-VR-
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 108.33 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.73 ms.
+Refreshing native plugins compatible for Editor in 96.76 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 1.22 ms.
 Initialize engine version: 2021.3.5f1 (40eb3a945986)
 [Subsystems] Discovering subsystems at path D:/Program Files/Unity/2021.3.5f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path D:/Users/denis/Desktop/Cursos online/VR Development Pathway/Repo/Create-With-VR-Project-VR-Develpment-Pathway/VR Room Denis/Assets
@@ -63,7 +63,7 @@ Initialize mono
 Mono path[0] = 'D:/Program Files/Unity/2021.3.5f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Program Files/Unity/2021.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Program Files/Unity/2021.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56432
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Program Files/Unity/2021.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
@@ -71,46 +71,45 @@ Register platform support module: D:/Program Files/Unity/2021.3.5f1/Editor/Data/
 Register platform support module: D:/Program Files/Unity/2021.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: D:/Program Files/Unity/2021.3.5f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
 Register platform support module: D:/Program Files/Unity/2021.3.5f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.004375 seconds.
+Registered in 0.003906 seconds.
 Native extension for UWP target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 86.90 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.05 ms.
+Refreshing native plugins compatible for Editor in 96.60 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.513 seconds
+- Completed reload, in  0.555 seconds
 Domain Reload Profiling:
-	ReloadAssembly (513ms)
+	ReloadAssembly (556ms)
 		BeginReloadAssembly (67ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (369ms)
-			LoadAssemblies (68ms)
+		EndReloadAssembly (411ms)
+			LoadAssemblies (67ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (83ms)
+			SetupTypeCache (82ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (18ms)
-			SetupLoadedEditorAssemblies (232ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (269ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (44ms)
+				InitializePlatformSupportModulesInManaged (46ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (87ms)
+				RefreshPlugins (97ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (70ms)
-				ProcessInitializeOnLoadMethodAttributes (30ms)
+				ProcessInitializeOnLoadAttributes (89ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008764 seconds.
-Android Extension - Scanning For ADB Devices 703 ms
+Registered in 0.007313 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Users\denis\Desktop\Cursos online\VR Development Pathway\Repo\Create-With-VR-Project-VR-Develpment-Pathway\VR Room Denis\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image D:\Users\denis\Desktop\Cursos online\VR Development Pathway\Repo\Create-With-VR-Project-VR-Develpment-Pathway\VR Room Denis\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
@@ -119,8 +118,8 @@ Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 87.91 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.05 ms.
+Refreshing native plugins compatible for Editor in 95.25 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
 Package Manager log level set to [2]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in D:\Users\denis\Desktop\Cursos online\VR Development Pathway\Repo\Create-With-VR-Project-VR-Develpment-Pathway\VR Room Denis\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
@@ -138,43 +137,43 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  1.230 seconds
+- Completed reload, in  1.194 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1231ms)
-		BeginReloadAssembly (96ms)
+	ReloadAssembly (1195ms)
+		BeginReloadAssembly (200ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (906ms)
-			LoadAssemblies (95ms)
+			CreateAndSetChildDomain (124ms)
+		EndReloadAssembly (912ms)
+			LoadAssemblies (88ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (214ms)
+			SetupTypeCache (220ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (530ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (535ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (11ms)
+				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (88ms)
+				RefreshPlugins (95ms)
 				BeforeProcessingInitializeOnLoad (89ms)
-				ProcessInitializeOnLoadAttributes (270ms)
-				ProcessInitializeOnLoadMethodAttributes (68ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (267ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (4ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 1.87 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.11 ms.
-Unloading 5930 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 56 unused Assets / (426.3 KB). Loaded Objects now: 6367.
-Memory consumption went from 229.5 MB to 229.0 MB.
-Total: 5.313700 ms (FindLiveObjects: 0.806100 ms CreateObjectMapping: 0.529500 ms MarkObjects: 3.486900 ms  DeleteObjects: 0.487600 ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 5943 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (426.9 KB). Loaded Objects now: 6380.
+Memory consumption went from 231.6 MB to 231.2 MB.
+Total: 3.024400 ms (FindLiveObjects: 0.371900 ms CreateObjectMapping: 0.209000 ms MarkObjects: 2.227200 ms  DeleteObjects: 0.215200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -187,14 +186,20 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8264.424504 seconds.
+  path: Assets/_Course Library/_Prefabs/Seating/Couch_Rustic_Purple.prefab
+  artifactKey: Guid(b70d9d61de2878e4aaba4d25b4a4822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/_Prefabs/Seating/Couch_Rustic_Purple.prefab using Guid(b70d9d61de2878e4aaba4d25b4a4822d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9c79d688a65819fb152fa5b7897e20e') in 0.216620 seconds 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 8.18 ms, found 11 plugins.
-Preloading 1 native plugins for Editor in 0.05 ms.
-Unloading 59 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 59 unused Assets / (1.0 MB). Loaded Objects now: 6367.
-Memory consumption went from 105.1 MB to 104.1 MB.
-Total: 4.044500 ms (FindLiveObjects: 0.392900 ms CreateObjectMapping: 0.193000 ms MarkObjects: 3.042600 ms  DeleteObjects: 0.415200 ms)
+Refreshing native plugins compatible for Editor in 9.69 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 47 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 46 unused Assets / (392.6 KB). Loaded Objects now: 6469.
+Memory consumption went from 110.6 MB to 110.2 MB.
+Total: 3.832500 ms (FindLiveObjects: 0.421200 ms CreateObjectMapping: 0.238700 ms MarkObjects: 2.955900 ms  DeleteObjects: 0.216100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -209,64 +214,28 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 43584.713055 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a785c463e969a934fed8da219abea541') in 0.027914 seconds 
+  Time since last request: 33.198915 seconds.
+  path: Assets/_Course Library/_Prefabs/Rugs/Rug_Rect_Purple.prefab
+  artifactKey: Guid(e5b6e40db88c14344b1b380c0e966e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Course Library/_Prefabs/Rugs/Rug_Rect_Purple.prefab using Guid(e5b6e40db88c14344b1b380c0e966e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d4d6f89c238582347362b711fc14c7') in 0.032603 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 17.734489 seconds.
-  path: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
-  artifactKey: Guid(a5accbb829f414ad19d3938665880cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRI/Settings/Resources/InteractionLayerSettings.asset using Guid(a5accbb829f414ad19d3938665880cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0922ddb35dcb98fb4b0c8e789c0ad9cf') in 0.006442 seconds 
+  Time since last request: 0.000021 seconds.
+  path: Assets/Settings/URP-Performant-Renderer.asset
+  artifactKey: Guid(707360a9c581a4bd7aa53bfeb1429f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/URP-Performant-Renderer.asset using Guid(707360a9c581a4bd7aa53bfeb1429f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7653cdb6a5e27fa1e067fa46020154c') in 0.004052 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 511.773195 seconds.
-  path: Assets/XRI/Settings/Resources/InteractionLayerSettings.asset
-  artifactKey: Guid(a5accbb829f414ad19d3938665880cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/XRI/Settings/Resources/InteractionLayerSettings.asset using Guid(a5accbb829f414ad19d3938665880cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1480b828f3491a202a07948c2eee1f4') in 0.004404 seconds 
+  Time since last request: 0.000026 seconds.
+  path: Assets/Settings/URP-Performant.asset
+  artifactKey: Guid(d0e2fc18fe036412f8223b3b3d9ad574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/URP-Performant.asset using Guid(d0e2fc18fe036412f8223b3b3d9ad574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070cc1ebb19052cf3dc33eeff5fe4060') in 0.002852 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 237.437687 seconds.
-  path: Assets/_Course Library/Source Files/Models/Art_Painting_1.fbx
-  artifactKey: Guid(532e7074e2e914c4190b79a6fd2a2669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Course Library/Source Files/Models/Art_Painting_1.fbx using Guid(532e7074e2e914c4190b79a6fd2a2669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cabf4d99dd13f1e28526c6f3ef8dbf9') in 0.354598 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Water.mat
-  artifactKey: Guid(e3095256fea6f4128bafc4829b571ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Water.mat using Guid(e3095256fea6f4128bafc4829b571ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359e04c9eaedf66cc87d3bbba9d9f6a5') in 0.120748 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/_Course Library/Source Files/Models/Gaming_Controller.fbx
-  artifactKey: Guid(c52e9f8686c88b342bc59d4b44703762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Course Library/Source Files/Models/Gaming_Controller.fbx using Guid(c52e9f8686c88b342bc59d4b44703762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04eb5783a9dbab0761a367dc2edcc189') in 0.126825 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/_Course Library/_Prefabs/Art/Art_Painting_Sunset.prefab
-  artifactKey: Guid(7b844f6cdc7f1ce4fba989b2d7db9659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Course Library/_Prefabs/Art/Art_Painting_Sunset.prefab using Guid(7b844f6cdc7f1ce4fba989b2d7db9659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a396fa49ef9ff6e8e988807fd31828') in 0.021444 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/_Course Library/Source Files/Models/Launcher_DartGun.fbx
-  artifactKey: Guid(49344d184707a6d488a27aa72f9df271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Course Library/Source Files/Models/Launcher_DartGun.fbx using Guid(49344d184707a6d488a27aa72f9df271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2919d4697496669a68c2f613cebe28e4') in 0.039232 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Fire.mat
-  artifactKey: Guid(04dc29ccdba6849658c5b0a7c1c541f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Course Library/Materials/Particle Materials/PartilcleMaterial_Fire.mat using Guid(04dc29ccdba6849658c5b0a7c1c541f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd278e4f132bc28272c41913b6d5db94') in 0.013457 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/_Course Library/Source Files/Models/Art_Painting_4.fbx
-  artifactKey: Guid(1dff19bba321fd541a14ab1bee60a697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Course Library/Source Files/Models/Art_Painting_4.fbx using Guid(1dff19bba321fd541a14ab1bee60a697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8253c859da7eda374e7503a8889e837') in 0.021145 seconds 
+  Time since last request: 0.000040 seconds.
+  path: Assets/Settings/URP-Balanced.asset
+  artifactKey: Guid(e1260c1148f6143b28bae5ace5e9c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/URP-Balanced.asset using Guid(e1260c1148f6143b28bae5ace5e9c5d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b2f1068cb96d6bb725dca6e098d5f9') in 0.004091 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting

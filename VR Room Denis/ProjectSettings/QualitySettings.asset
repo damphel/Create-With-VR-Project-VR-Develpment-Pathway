@@ -21,7 +21,7 @@ QualitySettings:
     skinWeights: 2
     textureQuality: 0
     anisotropicTextures: 0
-    antiAliasing: 0
+    antiAliasing: 4
     softParticles: 0
     softVegetation: 0
     realtimeReflectionProbes: 0
@@ -40,10 +40,9 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: d0e2fc18fe036412f8223b3b3d9ad574,
+    customRenderPipeline: {fileID: 11400000, guid: 59ba88999c6c4ab40a62619f53dacebf,
       type: 2}
-    excludedTargetPlatforms:
-    - Server
+    excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Balanced
     pixelLightCount: 1
